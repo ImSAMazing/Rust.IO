@@ -1,0 +1,16 @@
+c:\Users\Sam\Documents\rust\projects\io\target\debug\deps\png-1ed831c53a5d7794.rmeta: C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\lib.rs C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\chunk.rs C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\common.rs C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\decoder\mod.rs C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\decoder\stream.rs C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\decoder\zlib.rs C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\encoder.rs C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\filter.rs C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\srgb.rs C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\text_metadata.rs C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\traits.rs C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\utils.rs
+
+c:\Users\Sam\Documents\rust\projects\io\target\debug\deps\png-1ed831c53a5d7794.d: C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\lib.rs C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\chunk.rs C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\common.rs C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\decoder\mod.rs C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\decoder\stream.rs C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\decoder\zlib.rs C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\encoder.rs C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\filter.rs C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\srgb.rs C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\text_metadata.rs C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\traits.rs C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\utils.rs
+
+C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\lib.rs:
+C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\chunk.rs:
+C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\common.rs:
+C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\decoder\mod.rs:
+C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\decoder\stream.rs:
+C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\decoder\zlib.rs:
+C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\encoder.rs:
+C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\filter.rs:
+C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\srgb.rs:
+C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\text_metadata.rs:
+C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\traits.rs:
+C:\Users\Sam\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.17.7\src\utils.rs:
